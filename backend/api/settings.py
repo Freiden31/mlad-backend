@@ -82,7 +82,7 @@ TEMPLATES = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    'http://localhost:5173',
+    'https://network-anomaly-detection-liard.vercel.app',
 ]
 
 WSGI_APPLICATION = 'api.wsgi.application'
