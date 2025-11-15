@@ -1,6 +1,6 @@
 Django==4.2.17
 djangorestframework==3.16.1
-djangorestframework-simplejwt==6.4.2
+djangorestframework-simplejwt==5.5.1
 django-cors-headers==4.3.0
 numpy==1.26.0
 pandas==2.1.1
