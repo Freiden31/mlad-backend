@@ -19,7 +19,7 @@ SECRET_KEY = "django-insecure-+p%qi$&l_v-u32)o=cc$j%=iu6*0(x^qjg_)qyab2nrq+bvn9b
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["mlad-backend-c7108c786c52.herokuapp.com"]
+ALLOWED_HOSTS = ["mlad-backend-9b2b026510a5.herokuapp.com"]
 
 # Application definition
 INSTALLED_APPS = [
