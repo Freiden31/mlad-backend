@@ -94,7 +94,6 @@ DATABASES = {
     )
 }
 
-    H
 
 # Password validation
 AUTH_PASSWORD_VALIDATORS = [
