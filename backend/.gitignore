@@ -2,9 +2,7 @@
 venv/
 __pycache__/
 
-# SQLite database
-*.sqlite3
-db.sqlite3
+
 
 # Environment variables
 .env
